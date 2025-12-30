@@ -56,7 +56,7 @@ We design and ship compact, player-focused mobile experiences with rapid iterati
 
 ## Team (roles)
 
-* Lead Designer — game design & systems
+* Game Designer — game design & systems
 * Lead Programmer (Unity/C#) — architecture & core systems
 * Artists & Animators — visuals & pipelines
 * Sound Designer — audio & music (FL Studio)
