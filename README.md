@@ -58,7 +58,7 @@ We design and ship compact, player-focused mobile experiences with rapid iterati
 
 * Game Designer — game design & systems
 * Lead Programmer (Unity/C#) — architecture & core systems
-* Artists & Animators — visuals & pipelines
+* Artists & Animator — visuals & pipelines
 * Sound Designer — audio & music (FL Studio)
 * Producer / PM — planning & milestones
 * QA / Playtest Coordinator — test plans & feedback
