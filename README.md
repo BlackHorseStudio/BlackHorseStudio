@@ -12,7 +12,7 @@ We prototype fast, build playable demos, and focus on player-first design.
 
 ## 🚩 Quick facts
 
-* **Team size:** 8
+* **Team size:** 7
 * **Primary platform:** Mobile (Unity)
 * **Primary languages / tools:** Unity, C#; FL Studio for audio. Artists/animator use their preferred professional tools.
 * **Current status:** Early stage — organization & tooling setup. Public repos and prototypes coming soon.
